@@ -7,5 +7,5 @@ Python 3 and Bokeh Library (`pip install bokeh`)
 # How to use
 Simply use double-click the `launcher.bat` file !
 
-# Autor
+# Author
 Made by Léon Remize (helped by ChatGPT ;) )
