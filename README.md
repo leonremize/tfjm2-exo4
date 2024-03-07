@@ -5,7 +5,7 @@ Modeling problem n°4  - TFJM² 2024 - Team RascolieN (RAS) Toulouse
 Python 3 and Bokeh Library (`pip install bokeh`)
 
 # How to use
-Simply use the command `bokeh serve --show exo4.py` in PowerShell, in the directory where this fils is located.
+Simply use double-click the `launcher.bat` file !
 
 # Autor
 Made by Léon Remize (helped by ChatGPT ;) )
